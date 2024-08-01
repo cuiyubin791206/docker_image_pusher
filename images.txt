@@ -1,1 +1,1 @@
-gcr.io/android-docker/android:11
+gcr.io/android-docker/android:14
