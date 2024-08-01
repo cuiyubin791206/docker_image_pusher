@@ -1,1 +1,1 @@
-genymotion/genymotion
+mkaradevli/android-sdk
