@@ -1,1 +1,1 @@
-gcr.io/android-docker/android:13
+genymotion/genymotion
